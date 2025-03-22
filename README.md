@@ -16,7 +16,7 @@ class AIMLStudent:
         self.name = "Pooja Verma"
         self.education = "MSc in AIML"
         self.institution = "IIIT Lucknow"
-        self.skills = ["Python", "Machine Learning", "Deep Learning"]
+        self.skills = ["Python", "C", "DSA", "Machine Learning", "Deep Learning"]
         self.interests = ["Computer Vision", "MLOps", "Stock Market Analysis"]
     
     def say_hi(self):
@@ -32,6 +32,9 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-verma-a61872317/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pooja30123/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-profile/)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-profile/)
 
 </div>
 
